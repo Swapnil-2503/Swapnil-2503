@@ -25,7 +25,7 @@ function About() {
             </p>
             <p>
               <Email className="about-icon" />
-              swapniljadhav6022@gmai.com
+              swapniljadhav6022@gmail.com
             </p>
           </div>
         </div>
