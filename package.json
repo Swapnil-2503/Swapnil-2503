@@ -1,5 +1,5 @@
 {
-  "homepage": ".",
+  "homepage": "https://Swapnil-2503.github.io/SwapCodeHub/",
   "name": "mywebsite",
   "version": "0.1.0",
   "private": true,
@@ -30,12 +30,14 @@
     "react-typed": "^1.2.0",
     "react-vertical-timeline-component": "^3.6.0",
     "reactstrap": "^9.1.6",
-    "socket.io": "^4.5.4",
+    "socket.io": "^4.5.4", 
     "socket.io-client": "^4.5.4",
     "uuid": "^9.0.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
