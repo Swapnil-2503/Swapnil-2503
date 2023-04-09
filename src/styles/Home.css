@@ -159,35 +159,27 @@
   color: #ff0033;
   text-shadow: 0px 0px 10px #ff0033, 0px 0px 20px #ff0033, 0px 0px 30px #ff0033, 0px 0px 40px #ff0033, 0px 0px 70px #ff0033, 0px 0px 80px #ff0033, 0px 0px 100px #ff0033;
 }
-
-@media only screen and (max-width: 768px) {
-  .hero-title {
-    font-size: 4rem;
+@media screen and (max-width: 768px) {
+  h1{
+    font-size: 2.6rem;
   }
-}
-@media screen and (max-width: 767px) {
   .hero .hero-title {
-    font-size: 4rem;
+  font-size: 2.3rem;
   }
-
+  
   .hero .hero-subtitle {
-    font-size: 2rem;
-    margin-bottom: 1rem;
+  font-size: 2rem;
   }
-
-  .link {
-    margin-top: 1rem;
-  }
-
-  .link a {
-    font-size: 1.5rem;
-  }
-}
-@media only screen and (max-width: 767px) {
+  
   .link {
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
-    margin: 20px 0;
+    flex-wrap: wrap;
   }
-}
+  
+  .link a {
+    margin: 0.5rem;
+    font-size: 1rem;
+  }
+  
+  }
