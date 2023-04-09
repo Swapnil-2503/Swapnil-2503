@@ -31,22 +31,17 @@ function About() {
         </div>
         <div className="about-description">
         <h3>Introduction</h3>
-<p>Hi there, I'm Swapnil! I'm a dedicated software developer with a passion for creating intuitive and dynamic web applications. My objective is to contribute my technical expertise to a dynamic team that values collaboration and continuous learning. With past years of experience in developing web applications, I specialize in React and Node.js and have worked on several projects.</p>
-<p>My technical skills include:</p>
-<ul>
-  <li>Proficiency in JavaScript, HTML, and CSS</li>
-  <li>Expertise in React, Node.js, and Express</li>
-  <li>Experience with SQL and NoSQL databases such as MySQL and MongoDB</li>
-  <li>Strong understanding of Git and version control systems</li>
-  <li>Ability to write clean, modular, and maintainable code</li>
-</ul>
-<p>I strongly believe in the power of teamwork and collaboration to achieve exceptional results. I am committed to building positive relationships with my team members and continuously learning and improving my skills to deliver high-quality solutions that meet business objectives.</p>
-          <h3>Interests</h3>
+<p>As a full-stack developer, I possess a diverse range of technical skills including proficiency in Java, ReactJS, NodeJS, HTML, CSS, JavaScript, SQL, and NoSQL. My experience in software development spans across multiple industries, allowing me to bring a unique perspective to each project.
+In addition to my technical expertise, I am also skilled in problem-solving and algorithmic thinking, which enables me to develop efficient and effective solutions to complex challenges. I have a strong background in data structures and algorithms, and I regularly participate in coding competitions and hackathons to sharpen my skills.
+Furthermore, I have a keen interest in IoT and embedded systems. I enjoy tinkering with hardware and electronics and have experience working with various microcontrollers and sensors. This allows me to design and develop innovative solutions that merge software and hardware to create cutting-edge products.
+Overall, my broad technical skill set, problem-solving abilities, and passion for innovation make me a valuable asset to any team or project.</p>
+          <h3>Interests & Hobbies</h3>
           <ul>
-            <li>Programming and software development</li>
+            <li>Problem Solving</li>
             <li>Listening Music</li>
             <li>Traveling and exploring new places</li>
-            <li>learning new things</li>
+            <li>Making Youtube videos</li>
+            <li>Reading articles and tweets</li>
           </ul>
         </div>
       </div>

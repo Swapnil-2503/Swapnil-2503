@@ -1,9 +1,18 @@
 import React ,{useState, useEffect} from "react";
 import Typed from 'react-typed';
 import '../styles/Home.css'
+import SplashScreen from './SplashScreen';
 import { Email, Facebook, GitHub, Instagram, LinkedIn, Twitter, YouTube } from "@material-ui/icons";
 
 function Home() {
+
+  const [showSplash, setShowSplash] = useState(true);
+
+  useEffect(() => {
+    setTimeout(() => {
+      setShowSplash(false);
+    }, 5000);
+  }, []);
 
   const quotes=[
     "Success is not final, failure is not fatal: it is the courage to continue that counts.",
@@ -41,6 +50,11 @@ const [showMotivationBox, setShowMotivationBox] = useState(true);
 
 
   return (
+    <div>
+    {showSplash ? (
+      <SplashScreen />
+    ) : (
+      <div>
     <div className="home">
       <div id="hero" class="hero route bg-image">
       {showMotivationBox && (
@@ -51,7 +65,7 @@ const [showMotivationBox, setShowMotivationBox] = useState(true);
         <div class="hero-content display-table">
           <div class="table-cell">
             <div class="container">
-              <p class="display-6 color-d">Hello, world!</p>
+              <p class="display-6 color-d">Welcome to my world!</p>
               <h1 class="hero-title mb-4">I am Swapnil Jadhav</h1>
               <p class="hero-subtitle">
                 <Typed
@@ -64,17 +78,19 @@ const [showMotivationBox, setShowMotivationBox] = useState(true);
               </div>
               </div>
               <div className="link">
-               <a href="htttps://www.linkedin.com/in/swapnil-jadhav03"><LinkedIn/></a>
-               <a href="https://www.github.com/Swapnil-2503"><GitHub/></a>
-               <a href="mailto://swapniljadhav6022@gmailcom"><Email/></a>  
-               <a href="https://www.facebook.com/100023952010963"><Facebook /></a>
-               <a href="https://www.twitter.com/Swapnil_J03"><Twitter /></a>
-               <a href="https://www.instagram.com/swapnil_._jadhav"><Instagram /></a>
-               <a href="https://www.linkedin.com/in/swapnil-jadhav03"><LinkedIn /></a>  
-               <a href="https://www.youtube.com/@NerveNetSolutions"><YouTube/></a>     
+               <a className="b" href="htttps://www.linkedin.com/in/swapnil-jadhav03"><LinkedIn/></a>
+               <a className="bl" href="https://www.github.com/Swapnil-2503"><GitHub/></a>
+               <a className="r" href="mailto://swapniljadhav6022@gmailcom"><Email/></a>  
+               <a className="b" href="https://www.facebook.com/100023952010963"><Facebook /></a>
+               <a className="b" href="https://www.twitter.com/SwapNetFlix"><Twitter /></a>
+               <a className="r" href="https://www.instagram.com/swapnil_._jadhav"><Instagram /></a> 
+               <a className="r" href="https://www.youtube.com/@NerveNetSolutions"><YouTube/></a>     
                </div>
         </div>
       </div>
+    </div>
+    </div>
+      )}
     </div>
   );
 }

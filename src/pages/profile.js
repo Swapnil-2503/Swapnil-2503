@@ -8,7 +8,7 @@ import { BsFileCode } from 'react-icons/bs';
 import { GiCircuitry } from 'react-icons/gi';
 import {TbAssembly} from 'react-icons/tb'
 import Core from '../assets/pdf/Swapnil Jadhav Core.pdf'
-import It from '../assets/pdf/Swapnil Jadhav IT1.pdf'
+import It from '../assets/pdf/Swapnil Jadhav IT.pdf'
 
 export default function Profile() {
   return (
