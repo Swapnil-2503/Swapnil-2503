@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b5d1e8933c6da7830d59",
-    "url": "/Swapnil-2503/static/css/main.ede061f5.chunk.css"
+    "revision": "aa94000089913c2c3baf",
+    "url": "/Swapnil-2503/static/css/main.e1b530d4.chunk.css"
   },
   {
-    "revision": "b5d1e8933c6da7830d59",
-    "url": "/Swapnil-2503/static/js/main.b5d1e893.chunk.js"
+    "revision": "aa94000089913c2c3baf",
+    "url": "/Swapnil-2503/static/js/main.aa940000.chunk.js"
   },
   {
     "revision": "4a3817ad688c84be15fc",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/Swapnil-2503/static/media/ProfilePhoto.0a93ac78.jpg"
   },
   {
-    "revision": "bf4ff26e68c36be31d812f03cebf25ab",
+    "revision": "be98a7962206fa7e97a13eb8f1d879d3",
     "url": "/Swapnil-2503/index.html"
   }
 ];

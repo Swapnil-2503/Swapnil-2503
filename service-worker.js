@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Swapnil-2503/precache-manifest.0ca8b982044f63792191b0519882b791.js"
+  "/Swapnil-2503/precache-manifest.9e66624084df97c311f938881676095d.js"
 );
 
 workbox.clientsClaim();
