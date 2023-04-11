@@ -8,5 +8,4 @@
 </p>
 - 🌱 I’m currently learning Java Spring
 - 💬 Ask me about: Core Java, Python, JavaScript, NodeJs, ReactJs, SQL, NoSQL
-- 📫 How to reach me: [See Here](#top)
 
