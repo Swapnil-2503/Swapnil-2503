@@ -6,3 +6,8 @@
   <a href="mailto:Swapniljadhav6022@gmail.com">Email</a> •
   <a href="https://www.youtube.com/SwapNet">YouTube</a> •
 </p>
+### 📊 GitHub Stats
+
+[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
