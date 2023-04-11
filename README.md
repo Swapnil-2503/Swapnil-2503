@@ -9,3 +9,7 @@
 - 🌱 I’m currently learning Java Spring
 - 💬 Ask me about: Full stack website development(ReactJs, SQL/NoSQL, NodeJs), Android studio app development, Problem solving(Java(good)/Python(not experience in problem solving), CodeChef 2*, Leetcode, HackerRank)
 
+<p align="center">
+  <a href="https://www.codechef.com/users/the_sj">CodeChef</a> •
+  <a href="https://leetcode.com/Swapnil-2503/">Leetcode</a> •
+</p>
