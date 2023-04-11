@@ -6,8 +6,13 @@
   <a href="mailto:Swapniljadhav6022@gmail.com">Email</a> •
   <a href="https://www.youtube.com/SwapNet">YouTube</a> •
 </p>
-### 📊 GitHub Stats
-
-[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swapnil-2503&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-2503&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <h3>📊 GitHub Stats</h3>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Swapnil-2503&show_icons=true&theme=dracula" />
+  </div>
+  <div>
+    <h3>🔥 Top Languages</h3>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-2503&layout=compact&theme=dracula" />
+  </div>
+</div>
