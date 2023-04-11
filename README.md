@@ -6,10 +6,13 @@
   <a href="mailto:Swapniljadhav6022@gmail.com">Email</a> •
   <a href="https://www.youtube.com/SwapNet">YouTube</a> •
 </p>
-- 🌱 I’m currently learning Java Spring
-- 💬 Ask me about: Full stack website development(ReactJs, SQL/NoSQL, NodeJs), Android studio app development, Problem solving(Java(good)/Python(not experience in problem solving), CodeChef 2*, Leetcode, HackerRank)
+## About Me
 
-<p align="center">
-  <a href="https://www.codechef.com/users/the_sj">CodeChef</a> •
-  <a href="https://leetcode.com/Swapnil-2503/">Leetcode</a> •
-</p>
+- 🌱 I’m currently learning Java Spring
+- 💬 Ask me about: 
+  - Full stack website development (ReactJs, SQL/NoSQL, NodeJs)
+  - Android studio app development
+  - Problem solving (Java (proficient) / Python (limited experience)) 
+  - CodeChef 2*
+  - Leetcode 
+  - HackerRank (Problem Solving Certificate)
