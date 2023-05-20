@@ -9,6 +9,7 @@
 ## About Me
 
 - 🌱 I’m currently learning Java Spring
+- 🌱 I’m now in GSSOC 2023 yeah! open source contributions❤️.
 - 💬 Ask me about: 
   - Full stack website development (ReactJs, SQL/NoSQL, NodeJs)
   - Android studio app development
