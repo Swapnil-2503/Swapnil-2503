@@ -8,6 +8,8 @@
 </p>
 ## About Me
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MERN+Developer!;Android+App+Developer!;Full+Stack+Developer!;Problem+Solver!" alt="Typing SVG" /></a>
+
+
 - 🌱 I’m currently learning Java Spring
 - 🌱 I’m now in GSSOC 2023 yeah! open source contributions❤️.
 - 💬 Ask me about: 
