@@ -18,4 +18,4 @@
   - Problem solving (Java (proficient) / Python (limited experience)) 
   - CodeChef 2*
   - Leetcode 
-  - HackerRank (Problem Solving Certificate)
+  - [HackerRank (Problem Solving Certificate)](https://www.hackerrank.com/certificates/305cba93d7a4)
