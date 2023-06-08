@@ -16,8 +16,8 @@
   - Full stack website development (ReactJs, SQL/NoSQL, NodeJs)
   - Android studio app development
   - Problem solving (Java (proficient) / Python (limited experience)) 
-  - <a href="https://www.codechef.com/users/the_sj" style="color: black; text-decoration: none;">CodeChef 2*</a>
-  - <a href="https://auth.geeksforgeeks.org/user/swapniljadhav6022" style="color: black; text-decoration: none;">GFG</a>
-  - <a href="https://leetcode.com/Swapnil-2503/" style="color: black; text-decoration: none;">Leetcode</a>
-  - <a href="https://www.hackerrank.com/certificates/305cba93d7a4" style="color: black; text-decoration: none;">HackerRank (Problem Solving Certificate)</a>
+  - <a href="https://www.codechef.com/users/the_sj" style="color: black !important;">CodeChef 2*</a>
+  - <a href="https://auth.geeksforgeeks.org/user/swapniljadhav6022" style="color: black !important;">GFG</a>
+  - <a href="https://leetcode.com/Swapnil-2503/" style="color: black !important;">Leetcode</a>
+  - <a href="https://www.hackerrank.com/certificates/305cba93d7a4" style="color: black !important;">HackerRank (Problem Solving Certificate)</a>
 
