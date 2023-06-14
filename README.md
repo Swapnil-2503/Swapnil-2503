@@ -9,6 +9,12 @@
 ## About Me
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MERN+Developer!;Android+App+Developer!;Full+Stack+Developer!;Problem+Solver!" alt="Typing SVG" /></a>
 
+## 👨‍💻LOC:
+<img src="assets/light.gif">
+<div align="center">
+  <img align="center" src="https://api.githubtrends.io/user/svg/Swapnil-2603/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
+</div>
+
 
 - 🌱 I’m currently learning Java Spring
 - 🌱 I’m now in GSSOC 2023 yeah! open source contributions❤️.
@@ -23,5 +29,9 @@
   - <a href="https://www.hackerrank.com/certificates/305cba93d7a4" style="color: black !important;">HackerRank (Problem Solving Certificate)</a>
 
 - 😁Fun Fact: Search on google ```Swapnil-2503``` i will be there at the top.
+- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+<h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
   
 
