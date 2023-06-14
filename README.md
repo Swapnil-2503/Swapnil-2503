@@ -18,7 +18,6 @@
   
  
 ## 👨‍💻LOC:
-<img src="assets/light.gif">
 <div align="center">
   <img align="center" src="https://api.githubtrends.io/user/svg/Swapnil-2603/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
 </div>
