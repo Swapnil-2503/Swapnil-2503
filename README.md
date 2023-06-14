@@ -6,7 +6,7 @@
   <a href="mailto:Swapniljadhav6022@gmail.com">Email</a> •
   <a href="https://www.youtube.com/SwapNet">YouTube</a> •
 </p>
-## About Me
+### About Me
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MERN+Developer!;Android+App+Developer!;Full+Stack+Developer!;Problem+Solver!" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning Java Spring
@@ -17,20 +17,20 @@
   - Problem solving (Java (proficient) / Python (limited experience)) 
   
  
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <div>
-  <img align="center" src="https://api.githubtrends.io/user/svg/Swapnil-2603/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves"/>
+  <img src="https://api.githubtrends.io/user/svg/Swapnil-2603/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-2503&langs_count=10&title_color=E11299&text_color=FFB26B&icon_color=0891b2&bg_color=272822&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </div>
  
  
-#### Coding Profiles:
+- #### 👨‍💻Coding Profiles:
   - <a href="https://www.codechef.com/users/the_sj" style="color: black !important;">CodeChef 2*</a>
   - <a href="https://auth.geeksforgeeks.org/user/swapniljadhav6022" style="color: black !important;">GFG</a>
   - <a href="https://leetcode.com/Swapnil-2503/" style="color: black !important;">Leetcode</a>
   - <a href="https://www.hackerrank.com/certificates/305cba93d7a4" style="color: black !important;">HackerRank (Problem Solving Certificate)</a>
 
-- 😁Fun Fact: Search on google ```Swapnil-2503``` i will be there at the top.
+ 😁Fun Fact: Search on google ```Swapnil-2503``` i will be there at the top.
 - ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
