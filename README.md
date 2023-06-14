@@ -23,7 +23,7 @@
 </div>
  
  
-- Coding Profiles:
+#### Coding Profiles:
   - <a href="https://www.codechef.com/users/the_sj" style="color: black !important;">CodeChef 2*</a>
   - <a href="https://auth.geeksforgeeks.org/user/swapniljadhav6022" style="color: black !important;">GFG</a>
   - <a href="https://leetcode.com/Swapnil-2503/" style="color: black !important;">Leetcode</a>
