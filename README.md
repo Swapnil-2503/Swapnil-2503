@@ -22,6 +22,6 @@
   - <a href="https://leetcode.com/Swapnil-2503/" style="color: black !important;">Leetcode</a>
   - <a href="https://www.hackerrank.com/certificates/305cba93d7a4" style="color: black !important;">HackerRank (Problem Solving Certificate)</a>
 
-- Fun Fact: Search on google Swapnil-2503 i will be the top.
+- Fun Fact: Search on google Swapnil-2503 i will be there at the top.
   
 
