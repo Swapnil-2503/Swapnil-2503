@@ -17,9 +17,9 @@
   - Problem solving (Java (proficient) / Python (limited experience)) 
   
  
-## 👨‍💻LOC:
-<div align="center">
-  <img align="center" src="https://api.githubtrends.io/user/svg/Swapnil-2603/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
+## 📊 GitHub Stats:
+<div>
+  <img align="center" src="https://api.githubtrends.io/user/svg/Swapnil-2603/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-2503&langs_count=10&title_color=E11299&text_color=FFB26B&icon_color=0891b2&bg_color=272822&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </div>
  
