@@ -20,7 +20,6 @@
 ### 📊 GitHub Stats:
 <div>
   <img src="https://api.githubtrends.io/user/svg/Swapnil-2503/langs?time_range=one_year&loc_metric=changed&theme=classic">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-2503&langs_count=10&title_color=E11299&text_color=FFB26B&icon_color=0891b2&bg_color=272822&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
    <img alt="Contributions" src="https://github.com/Swapnil-2503/github-stats/blob/master/generated/overview.svg"  >
 </div>
  
