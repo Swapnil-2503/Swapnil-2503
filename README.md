@@ -20,7 +20,6 @@
 ### 📊 GitHub Stats:
 <div>
   <img src="https://api.githubtrends.io/user/svg/Swapnil-2503/langs?time_range=one_year&loc_metric=changed&theme=classic">
-   <img alt="Contributions" src="https://github.com/Swapnil-2503/github-stats/blob/master/generated/overview.svg"  >
 </div>
  
  
