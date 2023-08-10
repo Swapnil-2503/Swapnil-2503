@@ -19,7 +19,7 @@
  
 ### 📊 GitHub Stats:
 <div>
-  [![Swapnil-2503's GitHub | Stats](https://stats.quine.sh/Swapnil-2503/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Swapnil-2503)
+  [![Swapnil-2503's GitHub | Stats](https://stats.quine.sh/Swapnil-2503/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Swapnil-2503) 
   <img src="https://api.githubtrends.io/user/svg/Swapnil-2503/langs?time_range=one_year&loc_metric=changed&theme=classic">
 </div>
  
