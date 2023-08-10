@@ -18,13 +18,12 @@
   
  
 ### 📊 GitHub Stats:
-<div>
-  [![Swapnil-2503's GitHub Stats](https://stats.quine.sh/Swapnil-2503/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Swapnil-2503)
+
+  [![Swapnil-2503's GitHub | Stats](https://stats.quine.sh/Swapnil-2503/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Swapnil-2503)
 
 
  [![Swapnil-2503's GitHub Languages Over Time](https://stats.quine.sh/Swapnil-2503/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Swapnil-2503)
 
-</div>
  
  
 - #### 👨‍💻Coding Profiles:
