@@ -1,35 +1,26 @@
-<h2 align="center">𝙃𝙀𝙇𝙇𝙊, 𝙄'𝙈 Swapnil 👋</h2>
-<p align="center">
-  <a href="https://Swapnil-2503.github.io">𝚆𝚎𝚋𝚜𝚒𝚝𝚎</a> •
-  <a href="https://www.linkedin.com/in/swapnil-jadhav03">𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗</a> •
-  <a href="https://www.twitter.com/er_swapnil_">𝚃𝚠𝚒𝚝𝚝𝚎𝚛</a> •
-  <a href="mailto:Swapniljadhav6022@gmail.com">Email</a> •
-  <a href="https://www.youtube.com/SwapNet">YouTube</a> 
-</p>
-- 💬 Ask me about:
-  - Embedded Software Development
- 
-  
- 
-### 📊 GitHub Stats:
+# 👨‍💻 Hi, I'm [Swapnil Balaji Jadhav]  
 
-  [![Swapnil-2503's GitHub | Stats](https://stats.quine.sh/Swapnil-2503/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Swapnil-2503)
+I'm an **Embedded Software Engineer** with a strong foundation in **electronics engineering** and hands-on experience in **Embedded C**, **C++**, **Python**, **Java**, and **Linux**. My goal is to become the best in the field of **embedded software engineering** and push the boundaries of innovation. I believe in mastering the full tech stack required for high-demand jobs in this space and creating systems that solve real-world problems.
 
+### 🚀 What I Do:
+- **Embedded Systems Development**: Developing firmware for hardware platforms such as **Arduino**, **ESP32**, **STM32**, **Raspberry Pi**, and **Shakti RISC-V microcontrollers**.
+- **Software Engineering**: Strong expertise in **C**, **C++**, **Python**, and **Java**, as well as experience in **GUI development** with **Tkinter**.
+- **Communication Protocols**: Skilled in **UART**, **I2C**, **SPI**, **CAN**, **MODBUS RTU**, **TCP/UDP**, and **HTTP**.
+- **Linux & Cybersecurity**: Passionate about **Linux** development, **ethical hacking**, and **cybersecurity**.
+- **RTOS & Embedded Linux**: Currently deep-diving into **RTOS** concepts and **Embedded Linux OS** to further enhance my development skills.
 
- [![Swapnil-2503's GitHub Languages Over Time](https://stats.quine.sh/Swapnil-2503/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Swapnil-2503)
+### 🔧 Tools & Technologies:
+- **Languages**: C, C++, Python, Java
+- **Platforms**: Arduino, ESP32, Raspberry Pi, STM32, Shakti RISC-V
+- **Protocols**: UART, I2C, SPI, CAN, MODBUS RTU, TCP/UDP, HTTP
+- **Tech**: Linux, Embedded Linux, RTOS, Cybersecurity, Circuit Design
+- **Tools**: Git, GitHub, MakeFile
 
- 
- 
-- #### 👨‍💻Coding Profiles:
-  - <a href="https://www.codechef.com/users/the_sj" style="color: black !important;">CodeChef 2*</a>
-  - <a href="https://auth.geeksforgeeks.org/user/swapniljadhav6022" style="color: black !important;">GFG</a>
-  - <a href="https://leetcode.com/Swapnil-2503/" style="color: black !important;">Leetcode</a>
-  - <a href="https://www.hackerrank.com/certificates/305cba93d7a4" style="color: black !important;">HackerRank (Problem Solving Certificate)</a>
+### 💡 Current Focus:
+- Mastering **memory management** to optimize embedded systems performance.
+- Learning advanced **RTOS** and **Embedded Linux OS** concepts.
+- Exploring **full tech stacks** for embedded systems to stay ahead in the industry.
 
- 😁Fun Fact: Search on google ```Swapnil-2503``` i will be there at the top.
-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
-<h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
-  
+### 📈 My Vision:
+I aim to be a top-tier embedded software engineer in **Pune**, and contribute to developing cutting-edge embedded systems. I prioritize **creativity**, **problem-solving**, and making impactful contributions to **innovative projects** that require both technical excellence and a strong focus on user needs.
 
