@@ -1102,10 +1102,19 @@ a:focus {
     color: #222222;
 }
 
+.skills {
+    display: flex;
+    flex-wrap: nowrap; /* Prevent wrapping */
+    justify-content: flex-start;
+    gap: 20px; /* Space between items */
+    overflow-x: auto; /* Allow scrolling if necessary */
+}
+
+.skill-item {
+    text-align: center;
+}
+
 .skill-item i {
     font-size: 40px;
     margin-bottom: 5px;
-}
-.skill-item p {
-    text-align: center;
 }
