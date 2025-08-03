@@ -7,6 +7,6 @@
 
 ### 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- 💼 [LinkedIn](https://https://www.linkedin.com/in/swapnil-jadhav03/)
 - ✉️ Mail: [jswapnil@myyahoo.com](mailto:jswapnil@myyahoo.com)
 
